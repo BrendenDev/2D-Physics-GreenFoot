@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=Player\ vs.\ john\ explanation\r\n\ Player\ is\ referring\ to\ the\ class\ and\ its\ properties\ like\ velocity,\ jump\ strength,\ and\ etc\r\n\ john\ is\ referring\ to\ the\ object\ itself.\ so\ any\ time\ I\ need\ to\ access/modify\ the\ physical\ object's\ location\ or\ visual\ aspects.\ also\ methods\r\n
+comment1.params=
+comment1.target=Player()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ checkXBounds()
+comment4.params=
+comment4.target=boolean\ checkGrounded()
+numComments=5
