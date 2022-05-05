@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Sand
-comment0.text=End\ Goal\:\ \r\n\ Make\ a\ framework\ for\ a\ simple\ platform\ game\r\n\ \r\n\ Progress\:\ \r\n\ 4/15/22\ Made\ a\ player\ physics\ and\ mover\ class.\r\n\ 4/21/22\ Polishing\ physics\ and\ mover\ class.\r\n\ 4/25/22\ Fixed\ major\ bugs\ physics/mover\ class.\ Added\ platform\ collision\ detection\r\n\ 4/29/22\ Got\ platform\ collision\ working.\r\n\ 5/03/22\ Polished\ platform\ collision.\ Started\ console\r\n\ \r\n\ Goals\:\ \r\n\ -\ Add\ enemies\r\n\ -\ Add\ console\r\n\ -\ Add\ Obstacle/Platforms\r\n\ \ \ \ \ -\ Add\ feet\ and\ head\ collision\ box\r\n\ -\ Add\ actions\ for\ player\r\n\ -\ Add\ new\ stages\ \r\n\ -\ Create\ algorithm\ for\ new\ stages\ and\ memory\r\n\ -\ Portals\r\n
+comment0.text=End\ Goal\:\ \r\n\ Make\ a\ framework\ for\ a\ simple\ platform\ game\r\n\ \r\n\ Progress\:\ \r\n\ 4/15/22\ Made\ a\ player\ physics\ and\ mover\ class.\r\n\ 4/21/22\ Polishing\ physics\ and\ mover\ class.\r\n\ 4/25/22\ Fixed\ major\ bugs\ physics/mover\ class.\ Added\ platform\ collision\ detection\r\n\ 4/29/22\ Got\ platform\ collision\ working.\r\n\ 5/03/22\ Polished\ platform\ collision.\ Started\ console\r\n\ 5/05/22\ Polishing\ console\ \r\n\ \r\n\ Goals\:\ \r\n\ -\ Add\ enemies\r\n\ -\ Add\ console\r\n\ -\ Add\ Obstacle/Platforms\r\n\ \ \ \ \ -\ Add\ feet\ and\ head\ collision\ box\r\n\ -\ Add\ actions\ for\ player\r\n\ -\ Add\ new\ stages\ \r\n\ -\ Create\ algorithm\ for\ new\ stages\ and\ memory\r\n\ -\ Portals\r\n
 comment1.params=
 comment1.target=Sand()
 numComments=2

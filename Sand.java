@@ -8,6 +8,7 @@ import greenfoot.*;
  * 4/25/22 Fixed major bugs physics/mover class. Added platform collision detection
  * 4/29/22 Got platform collision working.
  * 5/03/22 Polished platform collision. Started console
+ * 5/05/22 Polishing console 
  * 
  * Goals: 
  * - Add enemies
