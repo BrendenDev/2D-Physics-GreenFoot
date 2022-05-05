@@ -37,7 +37,11 @@ public class Console extends Actor
                     System.out.println("free: static physics" + "\n" + 
                     "normal: normal physics" + "\n" + 
                     "end: end prompt" + "\n" + 
-                    "stats: turn on stats"); 
+                    "stats: turn on stats" + "\n" +
+                    "git: link to repository"); 
+                    break;
+                case "git":
+                    System.out.println("https://github.com/BrendenDev/GitTest3");
                     break;
                 case "stats":
                     Stats.on = !Stats.on; 
